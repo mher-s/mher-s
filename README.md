@@ -8,8 +8,8 @@
 
 ## Connect with me:
 
-[<img src="img/linkdin.png">](https://mher-s.github.io/computer-assembly/)
-[<img src="img/telegram.png">](https://mher-s.github.io/computer-assembly/)
+[<img src="linkdin.png">](https://www.linkedin.com/in/mher-sargsyan-4b4284211/)
+[<img src="telegram.png">](https://t.me/mher0730)
 
 ---
 
