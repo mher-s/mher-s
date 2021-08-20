@@ -1,11 +1,10 @@
-### Hi there, I'm Mher
+### Hi there, I'm Mher 👋
 
-# I'm a frontend developer
+# I'm a frontend developer 💻 
 
-- I'm currently learning everything
-- I'm looking to collaborate with other content creators
-- I'm team player
-- Charged
+- I'm currently learning everything 👓
+- I'm looking to collaborate with other content creators 
+- Charged ⚡ 
 
 ## Connect with me:
 
