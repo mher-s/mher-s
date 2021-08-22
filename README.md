@@ -6,7 +6,7 @@
 - I'm looking to collaborate with other content creators 
 - Charged ⚡ 
 
-## Connect with me:
+## Contact with me:
 
 [<img src="linkdin.png">](https://www.linkedin.com/in/mher-sargsyan-4b4284211/)
 [<img src="telegram.png">](https://t.me/mher0730)
