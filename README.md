@@ -1,4 +1,4 @@
-### Hi there, I'm Mher 👋
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I'm+Mher+👋;Nice+to+meet+you)](https://git.io/typing-svg)
 
 # I'm a frontend developer 💻 
 
